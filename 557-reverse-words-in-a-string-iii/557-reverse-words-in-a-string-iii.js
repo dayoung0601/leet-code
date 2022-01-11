@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {string}
- */
 var reverseWords = function(s) {
     let splitBySpace = s.split(' ');
     let splitAll = [];
