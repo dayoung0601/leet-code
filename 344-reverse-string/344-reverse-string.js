@@ -1,7 +1,3 @@
-/**
- * @param {character[]} s
- * @return {void} Do not return anything, modify s in-place instead.
- */
 var reverseString = function(s) {
         n = s.length
         half = Math.floor(n / 2);
